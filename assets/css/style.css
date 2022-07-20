@@ -1,0 +1,44 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background : #FFFFFF;
+}
+
+
+.verde {
+
+    background: #28a745;
+}
+
+
+.btn {
+
+   color:#212529;
+   text-align: center;
+
+   background: #F8F9FA;
+}
+
+
+
+.footer {
+    text-align: center;
+    background: #FFFFFF;
+    color: #000000;
+}
+
+.card-body h5{
+
+    color : #212529;
+}
+
+.w15 {
+  width:15%;
+}
+
+
+.h1 {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
